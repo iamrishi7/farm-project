@@ -17,7 +17,7 @@ We will create a system, mobile application preffered, which will guide and make
     <p>The elimination of brokers and other intermediates in the process of selling crops will lead to overall financial growth of both the farmers as well as the nation. And the assistance provided by our systems will lead to efficiency in work and man power.</p>
 
 ## Stack
-We should prefer using Google technologies as much as possible. Here are the stacks which I recommend boldly.
+We should prefer using Google technologies as much as possible. Here are the stacks which I recommend boldly.<br><br>
 <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
 <p>For app development flutter is the best choice as it is developed by Google the best framework out there for app development moreover, we can produce Android, iOS and web application using single codebase.</p>
 
