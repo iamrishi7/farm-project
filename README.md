@@ -28,7 +28,7 @@ We should prefer using Google technologies as much as possible. Here are the sta
 
 <img alt="Angular" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"><br><br>
 <h1>Angular</h1>
-<p>If we needed to go with web application we should try to use Angular framework instead of other framework/libraries like VueJS or ReactJS. Angular is also a stack developed by google</p><br><br><br><br>
+<p>If we needed to go with web application we should try to use Angular framework instead of other framework/libraries like VueJS or ReactJS. Angular is also a stack developed by google</p><br><br>
 
 ## License
 
