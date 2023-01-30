@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="/public/sprout.png" width="50" height="50" alt="Laravel Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="/public/sprout.png" width="100" height="100" alt="Laravel Logo"></a></p>
 
 ## About Project
 
