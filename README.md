@@ -20,7 +20,7 @@ We will create a system, mobile application preffered, which will guide and make
 We should prefer using Google technologies as much as possible. Here are the stacks which I recommend boldly.<br><br>
 <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
 <h1>Flutter</h1>
-<p>For app development flutter is the best choice as it is developed by Google the best framework out there for app development moreover, we can produce Android, iOS and web application using single codebase.</p><br><br><br><br>
+<p>For app development flutter is the best choice as it is developed by Google and one of the best framework out there for app development moreover, we can produce Android, iOS and web application using single codebase.</p><br><br><br><br>
 
 <img alt="Firebase" src="https://www.gstatic.com/devrel-devsite/prod/vf835aa6b9cd89b3f27e5e46b762d88066cfe5cc51e31c466c45c27dbcd2bcca1/firebase/images/lockup.svg"><br><br>
 <h1>Firebase</h1>
