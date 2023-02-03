@@ -24,7 +24,7 @@ Here is the best stack I could think of. Any suggestions are welcomed<br><br>
 
 <img alt="Firebase" src="https://www.gstatic.com/devrel-devsite/prod/vf835aa6b9cd89b3f27e5e46b762d88066cfe5cc51e31c466c45c27dbcd2bcca1/firebase/images/lockup.svg"><br><br>
 <h1>Firebase</h1>
-<p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack. We can also use back-end frameworks like Laravel,django etc. if needed.</p><br><br><br><br>
+<p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack. We can also use back-end frameworks like Laravel,django etc. if needed.</p><br>
 
 ## License
 All the contribuions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
