@@ -17,14 +17,14 @@ We will create a system, mobile application preffered, which will guide and make
     <p>The elimination of brokers and other intermediates in the process of selling crops will lead to overall financial growth of both the farmers as well as the nation. And the assistance provided by our systems will lead to efficiency in work and man power.</p>
 
 ## Stack
-We should prefer using Google technologies as much as possible. Here are the stacks which I recommend boldly.<br><br>
+Here is the best stack I could think of. Any suggestions are welcomed<br><br>
 <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
 <h1>Flutter</h1>
 <p>For app development flutter is the best choice as it is developed by Google and one of the best framework out there for app development moreover, we can produce Android, iOS and web application using single codebase.</p><br><br><br><br>
 
 <img alt="Firebase" src="https://www.gstatic.com/devrel-devsite/prod/vf835aa6b9cd89b3f27e5e46b762d88066cfe5cc51e31c466c45c27dbcd2bcca1/firebase/images/lockup.svg"><br><br>
 <h1>Firebase</h1>
-<p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack.</p><br><br><br><br>
+<p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack. We can also use back-end frameworks like Laravel,django etc. if needed.</p><br><br><br><br>
 
 ## License
 All the contribuions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
