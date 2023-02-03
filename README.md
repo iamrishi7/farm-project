@@ -26,10 +26,5 @@ We should prefer using Google technologies as much as possible. Here are the sta
 <h1>Firebase</h1>
 <p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack.</p><br><br><br><br>
 
-
-
-
-
 ## License
-
 All the contribuions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
