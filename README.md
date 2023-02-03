@@ -2,7 +2,7 @@
 
 ## About Project
 
-This project is a part of 2023 Solution Challenge - Google Developers. We will be solving the problems of farmers and covering a total of three Sustainable Development Goals listed on [UN website](https://sdgs.un.org/goals).
+We will be solving the problems of farmers and covering a total of three Sustainable Development Goals listed on [UN website](https://sdgs.un.org/goals).
 
 ## The Idea
 
@@ -26,10 +26,10 @@ We should prefer using Google technologies as much as possible. Here are the sta
 <h1>Firebase</h1>
 <p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack.</p><br><br><br><br>
 
-<img alt="Angular" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png"><br><br>
-<h1>Angular</h1>
-<p>If we needed to go with web application we should try to use Angular framework instead of other framework/libraries like VueJS or ReactJS. Angular is also a stack developed by google</p><br><br>
+
+
+
 
 ## License
 
-All the contribuions made to this project are by Google Developers Students Club, PGDAV College, University of Delhi. Therefore, this is not an open source project.
+All the contribuions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
