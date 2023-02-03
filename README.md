@@ -17,7 +17,7 @@ We will create a system, mobile application preffered, which will guide and make
     <p>The elimination of brokers and other intermediates in the process of selling crops will lead to overall financial growth of both the farmers as well as the nation. And the assistance provided by our systems will lead to efficiency in work and man power.</p>
 
 ## Stack
-Here is the best stack I could think of. Any suggestions are welcomed<br><br>
+Here is the best stack I could think of. All suggestions are welcomed<br><br>
 <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
 <h1>Flutter</h1>
 <p>For app development flutter is the best choice as it is developed by Google and one of the best framework out there for app development moreover, we can produce Android, iOS and web application using single codebase.</p><br><br><br><br>
