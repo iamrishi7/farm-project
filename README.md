@@ -27,4 +27,4 @@ Here is the best stack I could think of. All suggestions are welcomed<br><br>
 <p>Another super and easy to use technology by Google. Mainly used for authentication and database. We can use this as our Back-end stack. We can also use back-end frameworks like Laravel,django etc. if needed.</p><br>
 
 ## License
-All the contribuions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
+All the contributions made to this project are by Straw hat crew. Therefore, this is not an open-source project.
